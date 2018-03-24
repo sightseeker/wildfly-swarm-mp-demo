@@ -1,0 +1,8 @@
+{
+    "openapi": "3.0.1",
+    "info": {
+        "title": "MicroProfile OpenAPI with WildFly Swarm",
+        "description": "This is a sample server for a MicroProfile OpenAPI.",
+        "version": "${project.version}"
+    }
+}
