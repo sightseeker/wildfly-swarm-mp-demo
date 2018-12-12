@@ -1,4 +1,4 @@
-package com.sightseekerstudio.wildflyswarmmpdemo.rest;
+package com.sightseekerstudio.wildflyswarmmpdemo.jaxrs;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
